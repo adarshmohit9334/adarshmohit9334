@@ -1,16 +1,88 @@
-## Hi there 👋
+# 👋 Hey there, I'm Adarsh Kumar  
 
-<!--
-**adarshmohit9334/adarshmohit9334** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **Passionate & Versatile Developer** | Android 📱 | Game Development 🎮 | UI/UX 🎨  
 
-Here are some ideas to get you started:
+📍 Currently pursuing **MCA** at MIT World Peace University, Pune.  
+💡 Always exploring **innovative technologies** and building **user-centric solutions**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me  
+- 💻 Android Developer with experience in **Java, XML, Firebase & Geolocation systems**.  
+- 🎮 Game Developer — built **Space King** (Unity-based space game).  
+- 🎨 UI/UX Designer — skilled with **Figma, Photoshop & CorelDRAW**.  
+- 🔐 Strong focus on **secure & scalable applications** with real-time synchronization.  
+- 🌱 Currently sharpening my skills in **MCA journey + Advanced Android & Game Dev**.  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Languages:**  
+`Java` `C#` `XML` `HTML` `CSS`  
+
+**Mobile Development:**  
+`Android Studio` `Firebase` `Geolocation/Geofencing`  
+
+**Game Development:**  
+`Unity Engine` `2D & 3D Game Development` `C# Scripting`  
+
+**UI/UX Design:**  
+`Figma` `Adobe Photoshop` `CorelDRAW` `Wireframing`  
+
+**Soft Skills:**  
+✨ Problem-Solving | 🎨 Creativity & Innovation | 🤝 Team Collaboration | ⏳ Time Management | 🎤 Communication  
+
+---
+
+## 📂 Featured Projects  
+
+### 📱 [GeoPulse](#)  
+Location-based Attendance App  
+- Built with **Java, XML, Firebase**  
+- Features: **Geofencing + Fingerprint Authentication**  
+- Role-based access for **Admins, Teachers, Students**  
+- Real-time sync with **Firebase Realtime Database**  
+
+---
+
+### 🎮 [Space King](#)  
+Unity-based Space Game  
+- Designed & developed a **2D/3D space-themed game**  
+- Implemented **VR/AR/MR concepts, animations & physics**  
+- Learned under mentorship at **CodroidHub Pvt. Ltd.**  
+
+---
+
+### 🌿 [Wildhome.com](#)  
+UI/UX Design Project  
+- Concept: **Eco-friendly Real Estate Platform**  
+- Tools: **Figma, Photoshop, CorelDRAW**  
+- Designed **nature-inspired, responsive interfaces**  
+
+---
+
+## 🎓 Education  
+- 📘 **MCA (Ongoing)** – MIT World Peace University, Pune  
+- 🎓 **BCA** – Amity University  
+- 🏫 **12th Boards** – Vidya Sanskar School  
+- 🏫 **10th Boards** – Gyan Niketan  
+
+---
+
+## 📜 Certifications & Courses  
+- 🎮 Game Development – **CodroidHub**  
+- 🎨 UI/UX Designing  
+- 📱 Android Development – **CEPTA**  
+
+---
+
+## 🌐 Connect With Me  
+📞 **Phone:** +91 9334721693  
+📧 **Email:** adarshmohit9334@gmail.com  
+🔗 **LinkedIn:** [Adarsh Kumar](https://www.linkedin.com/in/adarsh-kumar-154116282)  
+💻 **GitHub:** [Adarsh Kumar](https://github.com/adarshmohit9334)  
+
+---
+
+✨ *“Code. Create. Innovate. Repeat.”* 🚀
