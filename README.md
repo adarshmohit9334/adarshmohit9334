@@ -19,16 +19,16 @@
 ## 🛠️ Tech Stack  
 
 **Languages:**  
-`Java` `C#` `XML` `HTML` `CSS`  
+`Java` `C#` `XML` `HTML` `CSS`  `python`  `java script` `sql`
 
 **Mobile Development:**  
-`Android Studio` `Firebase` `Geolocation/Geofencing`  
+`Android Studio` `Firebase` `supabase` `Geolocation/Geofencing`  
 
 **Game Development:**  
 `Unity Engine` `2D & 3D Game Development` `C# Scripting`  
 
 **UI/UX Design:**  
-`Figma` `Adobe Photoshop` `CorelDRAW` `Wireframing`  
+`Figma` `Adobe Photoshop` `CorelDRAW` `Wireframing`  `stitch`
 
 **Soft Skills:**  
 ✨ Problem-Solving | 🎨 Creativity & Innovation | 🤝 Team Collaboration | ⏳ Time Management | 🎤 Communication  
