@@ -70,7 +70,6 @@ Features: Drafting & Submitting BG Requests, Document Uploads, Support Ticketing
 Role-based access for Requesters, Approvers, Admins
 Real-time sync with Supabase Database & Storage (with local JSON backup fallback)
 Multi-level workflow with automatic approval routing based on BG amount thresholds
-
 ---
 
 ## 🎓 Education  
