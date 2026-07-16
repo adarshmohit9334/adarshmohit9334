@@ -84,7 +84,8 @@ Bank Guarantee Lifecycle Management System
 - 🎮 Game Development – **CodroidHub**  
 - 🎨 UI/UX Designing  
 - 📱 Android Development – **CEPTA**  
-
+- 🌐 Networking Basics – Cisco Networking Academy
+- 📊 Data Analytics Job Simulation – Deloitte (Forage)
 ---
 
 ## 🌐 Connect With Me  
