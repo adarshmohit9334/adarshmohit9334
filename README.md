@@ -60,6 +60,15 @@ UI/UX Design Project
 - Tools: **Figma, Photoshop, CorelDRAW**  
 - Designed **nature-inspired, responsive interfaces**  
 
+💼 Bank Guarantee Portal
+Bank Guarantee Lifecycle Management System
+
+Built with Python (Flask), Supabase, HTML, CSS, JavaScript
+Features: Drafting & Submitting BG Requests, Document Uploads, Support Ticketing
+Role-based access for Requesters, Approvers, Admins
+Real-time sync with Supabase Database & Storage (with local JSON backup fallback)
+Multi-level workflow with automatic approval routing based on BG amount thresholds
+
 ---
 
 ## 🎓 Education  
