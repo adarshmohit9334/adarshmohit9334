@@ -60,6 +60,8 @@ UI/UX Design Project
 - Tools: **Figma, Photoshop, CorelDRAW**  
 - Designed **nature-inspired, responsive interfaces**  
 
+---
+
 💼 Bank Guarantee Portal
 Bank Guarantee Lifecycle Management System
 
