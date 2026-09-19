@@ -3,19 +3,24 @@
 ### Full-Stack & Android Developer | Java | React | Spring Boot
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Android+Developer;AI+%26+Computer+Vision+Enthusiast;Building+Practical+%26+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Android+Developer;AI+%26+Computer+Vision+Enthusiast;Building+Practical+%26+Scalable+Solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/adarshmohit">
-    <img src="https://img.shields.io/github/followers/adarshmohit?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub Followers"/>
+  <a href="https://github.com/adarshmohit9334">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
-  <a href="https://github.com/adarshmohit">
-    <img src="https://img.shields.io/github/stars/adarshmohit?label=Stars&style=for-the-badge&logo=github&color=yellow" alt="GitHub Stars"/>
+
+  <a href="https://www.linkedin.com/in/adarsh-kumar-154116282/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Connect"/>
   </a>
-  <a href="https://www.linkedin.com/in/adarsh-kumar-154116282">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
+
+  <a href="mailto:adarshmohit9334@gmail.com?subject=Contact%20from%20GitHub%20Profile">
+  <img
+    src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email Me"
+  />
+</a>
 </p>
 
 ---
@@ -24,54 +29,69 @@
 
 I'm an **MCA candidate and Full-Stack Developer** passionate about building practical, scalable, and user-centric software applications.
 
-I work across **web, mobile, backend, and AI-powered applications**, with hands-on experience in Java, Spring Boot, React.js, Python, Node.js, MySQL, PostgreSQL, Firebase, and Supabase.
-
-### 🚀 What I Work With
+I work across **web, mobile, backend, and AI-powered applications**, with hands-on experience in:
 
 - 🌐 Full-Stack Web Development
 - ⚙️ REST API Development
+- ☕ Java & Spring Boot
+- ⚛️ React.js
+- 🐍 Python & Flask
 - 🔐 Authentication & Authorization
 - 🔄 Real-Time Applications & WebSockets
 - 🤖 AI & Computer Vision
 - 📱 Android Application Development
 - 💳 Payment Gateway Integration
 - 🗄️ Database Design & Management
-- 🐳 Docker & Application Deployment
+- 🐳 Docker & Application Architecture
 - 🎨 UI/UX Design
 
-I'm currently pursuing my **Master of Computer Applications (MCA)** at **MIT World Peace University, Pune**.
+Currently pursuing my **Master of Computer Applications (MCA)** at **MIT World Peace University, Pune**.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,cpp,cs,html,css,xml,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,cpp,cs,html,css" />
 </p>
 
-### 🚀 Frameworks & Technologies
+`XML` `SQL`
+
+---
+
+## 🚀 Frameworks & Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=spring,react,nodejs,flask" />
 </p>
 
-### 🗄️ Databases & Backend
+`REST APIs` `WebSocket` `JWT` `Spring Security`
+
+---
+
+## 🗄️ Databases & Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase" />
 </p>
 
-### 🤖 AI & Computer Vision
+`MySQL` `PostgreSQL` `Firebase` `Supabase`
+
+---
+
+## 🤖 AI & Computer Vision
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,opencv" />
 </p>
 
-`YOLO` `Computer Vision` `AI/ML`
+`Python` `YOLO` `OpenCV` `AI/ML`
 
-### 📱 Mobile & Game Development
+---
+
+## 📱 Mobile & Game Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=androidstudio,unity,cs" />
@@ -79,7 +99,9 @@ I'm currently pursuing my **Master of Computer Applications (MCA)** at **MIT Wor
 
 `Java` `XML` `Firebase` `Unity Engine` `C#`
 
-### 🎨 UI/UX & Design
+---
+
+## 🎨 UI/UX & Design
 
 <p>
   <img src="https://skillicons.dev/icons?i=figma,ps" />
@@ -87,7 +109,9 @@ I'm currently pursuing my **Master of Computer Applications (MCA)** at **MIT Wor
 
 `Figma` `Adobe Photoshop` `CorelDRAW`
 
-### 🔧 Tools & Platforms
+---
+
+## 🔧 Tools & Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
@@ -110,10 +134,11 @@ A full-stack event booking platform where users can browse events, reserve seats
 - 🎫 Event browsing and booking
 - 💺 Dynamic seat availability
 - 💳 Razorpay payment integration
-- 📋 Booking & cancellation management
+- 📋 Booking and cancellation management
 - 📤 Event management
 - 🎟️ Ticket generation
 - 🔗 REST API communication
+- 🗄️ MySQL database integration
 
 ---
 
@@ -121,13 +146,13 @@ A full-stack event booking platform where users can browse events, reserve seats
 
 **React.js | Monaco Editor | Spring Boot | WebSocket | Spring Security | JWT | MySQL | Docker**
 
-A real-time collaborative online IDE that enables multiple users to work on code simultaneously.
+A real-time collaborative online IDE that enables multiple users to edit and synchronize code simultaneously.
 
 ### ✨ Features
 
 - 👥 Real-time multi-user collaboration
 - 🔄 WebSocket-based code synchronization
-- 🔐 JWT authentication
+- 🔐 JWT-based authentication
 - 🛡️ Role-based access control
 - 🏠 Collaborative coding rooms
 - 🔗 Invite links
@@ -146,16 +171,17 @@ A real-time collaborative online IDE that enables multiple users to work on code
 
 **React.js | Spring Boot | MySQL | Google OAuth2 | Razorpay | Brevo API**
 
-A full-stack home services booking platform built with a React frontend and secure Spring Boot REST API backend.
+A full-stack home services booking platform built with a React.js frontend and secure Spring Boot REST API backend.
 
 ### ✨ Features
 
-- 🏠 Home service booking
+- 🏠 Home services booking
 - 🔐 Google OAuth2 authentication
 - 💳 Razorpay payment integration
 - 📧 Automated email notifications
-- 🔗 REST API-based architecture
+- 🔗 Spring Boot REST APIs
 - 🗄️ MySQL database integration
+- 👤 Secure user authentication
 
 ---
 
@@ -163,7 +189,7 @@ A full-stack home services booking platform built with a React frontend and secu
 
 **React.js | Spring Boot | Python | YOLO | OpenCV | PostgreSQL**
 
-An AI-powered traffic monitoring and analytics platform designed to analyze traffic conditions using computer vision.
+An AI-powered traffic monitoring and analytics platform designed for vehicle detection, tracking, traffic analysis, and intelligent traffic management.
 
 ### ✨ Features
 
@@ -176,6 +202,7 @@ An AI-powered traffic monitoring and analytics platform designed to analyze traf
 - 🔔 Traffic alerts
 - 📈 Historical traffic insights
 - 🤖 AI-assisted traffic signal recommendations
+- 🗄️ PostgreSQL-based analytics
 
 ---
 
@@ -183,17 +210,17 @@ An AI-powered traffic monitoring and analytics platform designed to analyze traf
 
 **Java | XML | Firebase**
 
-A location-based attendance management application using geofencing and fingerprint authentication.
+A location-based attendance application using geofencing and fingerprint authentication.
 
 ### ✨ Features
 
 - 📍 Geofencing-based attendance
 - 🔐 Fingerprint authentication
-- 👨‍💼 Admin role
-- 👨‍🏫 Teacher role
-- 👨‍🎓 Student role
+- 👨‍💼 Admin access
+- 👨‍🏫 Teacher access
+- 👨‍🎓 Student access
 - 🔄 Real-time Firebase synchronization
-- 🔒 Role-based access control
+- 🛡️ Role-based access control
 
 ---
 
@@ -201,21 +228,22 @@ A location-based attendance management application using geofencing and fingerpr
 
 ## Tata Steel Utilities and Infrastructure Services Limited (TSUISL)
 
-**Software Development Intern**  
-📅 June 2026 – July 2026  
-📍 Tatanagar, Jharkhand
+### Software Development Intern
+
+📅 **June 2026 – July 2026**  
+📍 **Tatanagar, Jharkhand**
 
 Worked on an automated **Bank Guarantee Management System**.
 
-### 💡 Contributions
+### 💡 Key Contributions
 
 - Developed a system that processed **50+ Bank Guarantee requests**
 - Automated validation across **10+ compliance rules**
 - Reduced manual attachment verification effort
 - Implemented a **2-level approval workflow**
-- Built approval routing based on transaction value limits
+- Developed approval routing based on transaction value limits
 
-### 🛠️ Technologies
+### 🛠️ Technologies Used
 
 `Python` `Flask` `Supabase` `PostgreSQL` `HTML` `CSS`
 
@@ -223,37 +251,37 @@ Worked on an automated **Bank Guarantee Management System**.
 
 # 🎓 Education
 
-### 🎓 Master of Computer Applications (MCA)
+## 🎓 Master of Computer Applications (MCA)
 
-**MIT World Peace University, Pune**  
-August 2025 – June 2027
+**MIT World Peace University, Pune**
 
-**CGPA:** 6.12
-
----
-
-### 🎓 Bachelor of Computer Applications (BCA)
-
-**Amity University, Patna**  
-September 2022 – May 2025
-
-**CGPA:** 6.58
+📅 August 2025 – June 2027  
+📊 CGPA: **6.12**
 
 ---
 
-### 🏫 12th Boards
+## 🎓 Bachelor of Computer Applications (BCA)
+
+**Amity University, Patna**
+
+📅 September 2022 – May 2025  
+📊 CGPA: **6.58**
+
+---
+
+## 🏫 12th Boards
 
 **Vidya Sanskar School, Patna**
 
-**Percentage:** 64%
+📊 Percentage: **64%**
 
 ---
 
-### 🏫 10th Boards
+## 🏫 10th Boards
 
 **Gyan Niketan, Patna**
 
-**Percentage:** 84.2%
+📊 Percentage: **84.2%**
 
 ---
 
@@ -281,56 +309,15 @@ September 2022 – May 2025
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=adarshmohit&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    height="180"
-    alt="Adarsh's GitHub Stats"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshmohit&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    height="180"
-    alt="Top Languages"
-  />
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=adarshmohit&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
-
----
-
-# 📈 GitHub Activity
-
-<p align="center">
-  <a href="https://github.com/adarshmohit">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=adarshmohit&theme=tokyo-night&hide_border=true"
-      alt="GitHub Activity Graph"
-    />
-  </a>
-</p>
-
----
-
 # 🎯 Currently Working On
 
 - 🚀 Building advanced **Full-Stack applications**
 - 🤖 Exploring **AI & Computer Vision**
-- ⚡ Improving my **Spring Boot & React** skills
-- 🔄 Building **real-time collaborative applications**
-- 🐳 Learning more about **Docker and scalable architectures**
+- ⚡ Improving **Spring Boot & React.js**
+- 🔄 Building **Real-Time Collaborative Systems**
+- 🐳 Learning scalable application architecture with **Docker**
 - 🧠 Strengthening **Data Structures & Problem Solving**
-- 📚 Continuously improving my software engineering skills
+- 📚 Continuously improving software engineering skills
 
 ---
 
